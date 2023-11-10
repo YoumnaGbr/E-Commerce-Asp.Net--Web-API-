@@ -96,4 +96,4 @@ Using SQL Server, Create database code first using Entity Framework.
 Special thanks to Route Academy for their invaluable contributions.
 
 ## Contact
-If you have any questions or need further assistance, feel free to contact the project maintainer at youmna.gabr97.com.
+If you have any questions or need further assistance, feel free to contact the project maintainer at youmna.gabr97@gmail.com.
